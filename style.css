@@ -1,0 +1,14 @@
+body{
+    background-color: #12455D;
+}
+
+.container-sm{
+    text-align: center;
+    font-size: 4em;
+    margin: 300px auto;
+}
+
+.container-sm span{
+    background-color: #1C6B90;
+    padding: 20px;
+}
